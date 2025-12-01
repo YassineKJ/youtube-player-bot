@@ -22,8 +22,8 @@ Youtube player Bot is a Discord bot designed to enhance your discord experience 
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/musically-bot.git
-   cd musically-bot
+   git clone https://github.com/yourusername/youtube-player-bot.git
+   cd youtube-player-bot
 2. **Install Dependencies**
    ```bash
    pip install -r requirements.txt
