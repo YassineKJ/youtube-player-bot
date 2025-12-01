@@ -1,11 +1,11 @@
-# Musically Bot
+# Youtube player Bot
 
-Musically Bot is a Discord bot designed to enhance your server's music experience by allowing users to play audio directly from YouTube. It connects to the voice chat, manages request queues, and supports track skipping.
+Youtube player Bot is a Discord bot designed to enhance your discord experience by allowing users to play audio directly from YouTube. It connects to the voice chat, manages request queues, and supports track skipping.
 
 ## Features
 
-- **Play Music from YouTube**: Search and play music from YouTube within your Discord voice channels.
-- **Queue Management**: Add music requests to a waiting queue, ensuring a continuous music experience.
+- **Play audio from YouTube**: Search and play audio from YouTube within your Discord voice channels.
+- **Queue Management**: Add requests to a waiting queue, ensuring a continuous experience.
 - **Control Playback**: Commands to pause, resume, and skip tracks easily.
 
 ## Installation
